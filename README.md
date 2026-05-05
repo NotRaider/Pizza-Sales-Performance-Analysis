@@ -1,6 +1,7 @@
 # Pizza Sales Performance Analysis
 
-[YOUR IMAGE CODE HERE]
+<img width="1500" height="865" alt="image" src="https://github.com/user-attachments/assets/0131abac-fa9d-49a2-99bd-da283659f795" />
+
 
 ## 🎯 Project Overview
 This project features an interactive Power BI dashboard designed to analyze pizza sales data. The goal was to transform raw sales data into actionable business insights, specifically focusing on product performance, order patterns, and revenue trends.
