@@ -1,6 +1,6 @@
 # Pizza Sales Performance Analysis
 
-<img width="1500" height="865" alt="image" src="<img width="1497" height="861" alt="image" src="https://github.com/user-attachments/assets/a3c6162d-0d63-47d6-b930-934c91a17040" />
+<img width="1497" height="861" alt="image" src="https://github.com/user-attachments/assets/a3c6162d-0d63-47d6-b930-934c91a17040" />
 
 
 ## 🎯 Project Overview
